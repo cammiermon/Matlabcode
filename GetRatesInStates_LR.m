@@ -1,5 +1,8 @@
 function RatesInStates = GetRatesInStates_LR(force)
 %
+
+%% LOL %%
+
 % Lisa Roux Mai 2018
 % June 2, 2020: Lisa update - get data from sleep scoring in new data
 % format
